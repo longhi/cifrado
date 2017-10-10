@@ -11,6 +11,8 @@ var convertEncrypt=encryptSentence.split('');
 var PushEnncrypt=[];
 //ENCRIPTAR UNO POR UNO MEDIANTE UN FOR
 for(var i=0; i< newToUpperCase.length;i++){
+ 
+
      var newcharacterPosition= newToUpperCase[i].charCodeAt();
   var characterPosition = ((newcharacterPosition-65+33)%26+65);//utilizamos la formula para encriptar
   var pushPosition=characterPosition.String.fromCharCode();

@@ -27,6 +27,4 @@ La variable **var** llamado **newcharacterPosition** es igual a **newToUpperCase
 
 
 
-
-
-diagrama de flujo ![diagrama de flujo](diagrama flujo.png)
+iagrama de flujo ![diagrama de flujo](assets/docs/diagrama.png)
